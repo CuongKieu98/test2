@@ -38,7 +38,7 @@ export default function Home() {
           priority
         />
       </div>
-      <p>hahaAAAAHOHO</p>
+      <p>Changed</p>
 
       <div className={styles.grid}>
         <a
