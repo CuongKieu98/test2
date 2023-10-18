@@ -38,7 +38,7 @@ export default function Home() {
           priority
         />
       </div>
-      <p>Changed ver4</p>
+      <p>Changed ver5</p>
 
       <div className={styles.grid}>
         <a
